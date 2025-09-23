@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Tremoço</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on João Tremoço</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiny-Diffusion</title>
+      <link>http://localhost:1313/projects/tiny_diffusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tiny_diffusion/</guid>
+      <description>Minimal diffusion model for 16×16 video‑game sprites (DDPM/DDIM) in PyTorch.</description>
+    </item>
+    <item>
+      <title>Language‑Guided Zero‑Shot Object Detection</title>
+      <link>http://localhost:1313/projects/language_guided_zero_shot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/language_guided_zero_shot/</guid>
+      <description>YOLO + CLIP pipeline that detects objects guided by natural‑language prompts (webcam demo included).</description>
+    </item>
+    <item>
+      <title>Transformers Almost From Scratch</title>
+      <link>http://localhost:1313/projects/transformers_almost_from_scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/transformers_almost_from_scratch/</guid>
+      <description>Educational PyTorch implementation of core Transformer components with a tiny LM (and a ViT variant).</description>
+    </item>
+    <item>
+      <title>Neural Network from Scratch (NumPy)</title>
+      <link>http://localhost:1313/projects/ml_from_scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ml_from_scratch/</guid>
+      <description>A modular neural network built using only NumPy — layers, forward/backward, gradients, and Iris demo.</description>
+    </item>
+    <item>
+      <title>Gallery Date Sorter</title>
+      <link>http://localhost:1313/projects/gallery_sorter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gallery_sorter/</guid>
+      <description>GUI tool to organize photos and videos into YYYY‑MM folders by creation date.</description>
+    </item>
+    <item>
+      <title>CV &amp; References</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;In this page you can find relevant professional documents including my CV, industry and academia recommendation letters as well as my academic transcripts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-curriculum-vitae&#34; class=&#34;relative group&#34;&gt;🧾 Curriculum Vitae &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-curriculum-vitae&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;João Tremoço, MsC&lt;/strong&gt;&lt;br&gt;&#xA;Senior A.I. Researcher/Engineer, Youverse&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:joao.f.g.tremoco@gmail.com&#34;&gt;joao.f.g.tremoco@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;details&gt;&#xA;  &lt;summary&gt;🧾 Read CV&lt;/summary&gt;&#xA;&lt;h3 id=&#34;about-me&#34; class=&#34;relative group&#34;&gt;About Me &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Senior AI Engineer/Researcher with 3.5+ years of dedicated experience in &lt;strong&gt;Computer Vision&lt;/strong&gt;, specializing in applying deep learning to complex image and video analysis challenges.&lt;br&gt;&#xA;Proven track record of delivering &lt;strong&gt;production-ready solutions&lt;/strong&gt; (including a certified liveness detection system) and contributing to &lt;strong&gt;published research&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;p&gt;Here is a selection of my publications in the field of computer vision applied to biometrics. PDF links are provided for convenience.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34; class=&#34;relative group&#34;&gt;2025 &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2025&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/pdfs/Adversarial.pdf&#34;&gt;Adversarial Attack Challenge for Secure Face Recognition 2025&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;João Tremoço, Iurii Medvedev, Nuno Freitas, Andreia Costa, Diogo Nunes, Niklas Bunzel, Lukas Graner, Nicholas Göller, Lorenzo Pellegrini, Nicolò Di Domenico, Guido Borghi, Monson Verghese, Shruti Bhilare, Avik Hati, Miguel Lourenço, Nuno Gonçalves&lt;br&gt;&#xA;&lt;em&gt;International Joint Conference on Biometrics (IJCB 2025) - Presentation&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;DOI not available yet.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

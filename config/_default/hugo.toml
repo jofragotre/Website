@@ -1,0 +1,13 @@
+baseURL = "https://jofragotre.github.io/"
+title = "Tremoço"
+theme = "congo"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true

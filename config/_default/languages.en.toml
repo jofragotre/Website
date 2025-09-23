@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "João Tremoço"
+
+[params]
+  description = "Senior AI Researcher — Computer Vision, Biometrics"
+  # Theme palette
+  colorScheme = "fire" 
+
+  # Appearance (light/dark) controls
+  defaultAppearance = "auto"     # auto | light | dark
+  autoSwitchAppearance = true
+  enableToggle = true
+  enableSearch = true
+
+  [params.author]
+    name = "João Tremoço"
+    image = "images/avatar.jpg" 
+    headline = "Senior AI Researcher — Computer Vision • Biometrics"
+    bio = "Specializing in Computer Vision and Biometrics."
+    links = [
+      { github = "https://github.com/jofragotre" },
+      { linkedin = "https://www.linkedin.com/in/joao-tremoco/" },
+      { email = "mailto:joao.f.g.tremoco@gmail.com" }
+    ]

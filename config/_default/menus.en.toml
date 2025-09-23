@@ -1,0 +1,16 @@
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+[[main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+[[main]]
+  name = "Curriculum"
+  url = "/cv/"
+  weight = 4
