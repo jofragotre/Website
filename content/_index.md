@@ -8,8 +8,8 @@ Hi! 👋 I am a Computer Vision and Biometrics researcher based in Lisbon, Portu
 
 
 <div class="hero-links">
-  <a href="/about/">About</a>
-  <a href="/projects/">Projects</a>
-  <a href="/publications/">Publications</a>
-  <a href="/cv/">Credentials</a>
+  <a href="about/">About</a>
+  <a href="projects/">Projects</a>
+  <a href="publications/">Publications</a>
+  <a href="cv/">Credentials</a>
 </div>
