@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vision on João Tremoço</title>
-    <link>http://localhost:1313/tags/vision/</link>
-    <description>Recent content in Vision on João Tremoço</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/tags/vision/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Transformers Almost From Scratch</title>
-      <link>http://localhost:1313/projects/transformers_almost_from_scratch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/transformers_almost_from_scratch/</guid>
-      <description>Educational PyTorch implementation of core Transformer components with a tiny LM (and a ViT variant).</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vision on João Tremoço</title><link>https://joaotremoco.com/tags/vision/</link><description>Recent content in Vision on João Tremoço</description><generator>Hugo</generator><language>en</language><atom:link href="https://joaotremoco.com/tags/vision/index.xml" rel="self" type="application/rss+xml"/><item><title>Transformers Almost From Scratch</title><link>https://joaotremoco.com/projects/transformers_almost_from_scratch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joaotremoco.com/projects/transformers_almost_from_scratch/</guid><description>Educational PyTorch implementation of core Transformer components with a tiny LM (and a ViT variant).</description></item></channel></rss>
