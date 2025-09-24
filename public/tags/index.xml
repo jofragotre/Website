@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on João Tremoço</title>
-    <link>http://localhost:1313/Website/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on João Tremoço</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CLIP</title>
-      <link>http://localhost:1313/Website/tags/clip/</link>
+      <link>http://localhost:1313/tags/clip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/clip/</guid>
+      <guid>http://localhost:1313/tags/clip/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/Website/tags/computer-vision/</link>
+      <link>http://localhost:1313/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion</title>
-      <link>http://localhost:1313/Website/tags/diffusion/</link>
+      <link>http://localhost:1313/tags/diffusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/diffusion/</guid>
+      <guid>http://localhost:1313/tags/diffusion/</guid>
       <description></description>
     </item>
     <item>
       <title>EXIF</title>
-      <link>http://localhost:1313/Website/tags/exif/</link>
+      <link>http://localhost:1313/tags/exif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/exif/</guid>
+      <guid>http://localhost:1313/tags/exif/</guid>
       <description></description>
     </item>
     <item>
       <title>FFmpeg</title>
-      <link>http://localhost:1313/Website/tags/ffmpeg/</link>
+      <link>http://localhost:1313/tags/ffmpeg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/ffmpeg/</guid>
+      <guid>http://localhost:1313/tags/ffmpeg/</guid>
       <description></description>
     </item>
     <item>
       <title>From Scratch</title>
-      <link>http://localhost:1313/Website/tags/from-scratch/</link>
+      <link>http://localhost:1313/tags/from-scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/from-scratch/</guid>
+      <guid>http://localhost:1313/tags/from-scratch/</guid>
       <description></description>
     </item>
     <item>
       <title>Generative</title>
-      <link>http://localhost:1313/Website/tags/generative/</link>
+      <link>http://localhost:1313/tags/generative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/generative/</guid>
+      <guid>http://localhost:1313/tags/generative/</guid>
       <description></description>
     </item>
     <item>
       <title>ML Foundations</title>
-      <link>http://localhost:1313/Website/tags/ml-foundations/</link>
+      <link>http://localhost:1313/tags/ml-foundations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/ml-foundations/</guid>
+      <guid>http://localhost:1313/tags/ml-foundations/</guid>
       <description></description>
     </item>
     <item>
       <title>Neural Networks</title>
-      <link>http://localhost:1313/Website/tags/neural-networks/</link>
+      <link>http://localhost:1313/tags/neural-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/neural-networks/</guid>
+      <guid>http://localhost:1313/tags/neural-networks/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/Website/tags/nlp/</link>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>NumPy</title>
-      <link>http://localhost:1313/Website/tags/numpy/</link>
+      <link>http://localhost:1313/tags/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/numpy/</guid>
+      <guid>http://localhost:1313/tags/numpy/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/Website/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/Website/tags/pytorch/</link>
+      <link>http://localhost:1313/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/pytorch/</guid>
+      <guid>http://localhost:1313/tags/pytorch/</guid>
       <description></description>
     </item>
     <item>
       <title>SAM</title>
-      <link>http://localhost:1313/Website/tags/sam/</link>
+      <link>http://localhost:1313/tags/sam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/sam/</guid>
+      <guid>http://localhost:1313/tags/sam/</guid>
       <description></description>
     </item>
     <item>
       <title>Tkinter</title>
-      <link>http://localhost:1313/Website/tags/tkinter/</link>
+      <link>http://localhost:1313/tags/tkinter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/tkinter/</guid>
+      <guid>http://localhost:1313/tags/tkinter/</guid>
       <description></description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>http://localhost:1313/Website/tags/transformers/</link>
+      <link>http://localhost:1313/tags/transformers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/transformers/</guid>
+      <guid>http://localhost:1313/tags/transformers/</guid>
       <description></description>
     </item>
     <item>
       <title>Utilities</title>
-      <link>http://localhost:1313/Website/tags/utilities/</link>
+      <link>http://localhost:1313/tags/utilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/utilities/</guid>
+      <guid>http://localhost:1313/tags/utilities/</guid>
       <description></description>
     </item>
     <item>
       <title>Vision</title>
-      <link>http://localhost:1313/Website/tags/vision/</link>
+      <link>http://localhost:1313/tags/vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/vision/</guid>
+      <guid>http://localhost:1313/tags/vision/</guid>
       <description></description>
     </item>
     <item>
       <title>VLM</title>
-      <link>http://localhost:1313/Website/tags/vlm/</link>
+      <link>http://localhost:1313/tags/vlm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/vlm/</guid>
+      <guid>http://localhost:1313/tags/vlm/</guid>
       <description></description>
     </item>
     <item>
       <title>YOLO</title>
-      <link>http://localhost:1313/Website/tags/yolo/</link>
+      <link>http://localhost:1313/tags/yolo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/yolo/</guid>
+      <guid>http://localhost:1313/tags/yolo/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero‑Shot</title>
-      <link>http://localhost:1313/Website/tags/zeroshot/</link>
+      <link>http://localhost:1313/tags/zeroshot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/tags/zeroshot/</guid>
+      <guid>http://localhost:1313/tags/zeroshot/</guid>
       <description></description>
     </item>
   </channel>
