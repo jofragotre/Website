@@ -1,1 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://joaotremoco.com/projects/tiny_diffusion/</loc></url><url><loc>https://joaotremoco.com/projects/language_guided_zero_shot/</loc></url><url><loc>https://joaotremoco.com/projects/transformers_almost_from_scratch/</loc></url><url><loc>https://joaotremoco.com/projects/ml_from_scratch/</loc></url><url><loc>https://joaotremoco.com/projects/gallery_sorter/</loc></url><url><loc>https://joaotremoco.com/about/</loc></url><url><loc>https://joaotremoco.com/cv/</loc></url><url><loc>https://joaotremoco.com/</loc></url><url><loc>https://joaotremoco.com/projects/</loc></url><url><loc>https://joaotremoco.com/publications/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/tiny_diffusion/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/language_guided_zero_shot/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/transformers_almost_from_scratch/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/ml_from_scratch/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/gallery_sorter/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/about/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/cv/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/publications/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+</urlset>
