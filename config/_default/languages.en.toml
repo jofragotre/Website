@@ -12,7 +12,6 @@ title = "João Tremoço"
   defaultAppearance = "auto"     # auto | light | dark
   autoSwitchAppearance = true
   enableToggle = true
-  enableSearch = true
 
   [params.author]
     name = "João Tremoço"
