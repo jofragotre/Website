@@ -3,6 +3,8 @@ title = "Tremoço"
 theme = "congo"
 languageCode = "en"
 defaultContentLanguage = "en"
+relativeURLs = false
+canonifyURLs = true
 
 [taxonomies]
   tag = "tags"

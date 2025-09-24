@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YOLO on João Tremoço</title>
-    <link>http://localhost:1313/tags/yolo/</link>
+    <link>http://localhost:1313/Website/tags/yolo/</link>
     <description>Recent content in YOLO on João Tremoço</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/yolo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Website/tags/yolo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Language‑Guided Zero‑Shot Object Detection</title>
-      <link>http://localhost:1313/projects/language_guided_zero_shot/</link>
+      <link>http://localhost:1313/Website/projects/language_guided_zero_shot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/language_guided_zero_shot/</guid>
+      <guid>http://localhost:1313/Website/projects/language_guided_zero_shot/</guid>
       <description>YOLO + CLIP pipeline that detects objects guided by natural‑language prompts (webcam demo included).</description>
     </item>
   </channel>

@@ -10,7 +10,7 @@ I’m a Senior AI Researcher focused on **Computer Vision** and **Biometrics**. 
 
 <figure style="text-align:center">
   <img
-    src='{{ "/images/poster.png" | relURL }}'
+    src='/images/poster.png'
     alt="Me at IJCB 2025"
     style="display:block;margin:0 auto;max-width:340px;width:100%;border-radius:8px;"
   />

@@ -4,47 +4,37 @@
   
     
       <url>
-            <loc>http://localhost:1313/projects/tiny_diffusion/</loc>
+            <loc>http://localhost:1313/Website/projects/tiny_diffusion/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/projects/language_guided_zero_shot/</loc>
+            <loc>http://localhost:1313/Website/projects/language_guided_zero_shot/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/projects/transformers_almost_from_scratch/</loc>
+            <loc>http://localhost:1313/Website/projects/transformers_almost_from_scratch/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/projects/ml_from_scratch/</loc>
+            <loc>http://localhost:1313/Website/projects/ml_from_scratch/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/projects/gallery_sorter/</loc>
+            <loc>http://localhost:1313/Website/projects/gallery_sorter/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/cv/</loc>
+            <loc>http://localhost:1313/Website/about/</loc>
           </url>
     
   
@@ -53,14 +43,8 @@
     
   
     
-  
-    
-  
-    
-  
-    
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:1313/Website/cv/</loc>
           </url>
     
   
@@ -73,14 +57,30 @@
     
   
     
+  
+    
       <url>
-            <loc>http://localhost:1313/projects/</loc>
+            <loc>http://localhost:1313/Website/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/Website/projects/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/publications/</loc>
+            <loc>http://localhost:1313/Website/publications/</loc>
           </url>
     
   
