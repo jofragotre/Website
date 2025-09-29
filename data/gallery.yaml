@@ -68,7 +68,7 @@ items:
     caption: Night cityscape, Japan
     categories: ["featured","travel"]
   - title: Okinawa beach 1
-    src: "/images/gallery/Okinawa-1.jpg"
+    src: "/images/gallery/okinawa-1.jpg"
     caption: Beautifull Okinawa beach
     categories: ["featured","travel"]
   - title: Okinawa Postcard
