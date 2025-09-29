@@ -1,0 +1,101 @@
+items:
+  - title: Azores Natural Pool 
+    src: "/images/gallery/azores-pool.jpeg"
+    caption: Swimming in the natural pools of Azores
+    categories: ["travel"]
+  - title: Okinawa Traditional Guitar
+    src: "/images/gallery/bar-guitar.jpeg"
+    caption: Me with a traditional Okinawan guitar (which I can't play)
+    categories: ["memories"]
+  - title: Photo in Osaka bar
+    src: "/images/gallery/bar-photo.jpeg"
+    caption: Still have a photo in an Osaka bar!
+    categories: ["memories"]
+  - title: Camper van stuck in the mud
+    src: "/images/gallery/mud.jpg"
+    caption: Stuck in the mud, middle of nowhere, Italy
+    categories: ["featured","memories"]
+  - title: Croatia boats
+    src: "/images/gallery/croatia-boats.jpeg"
+    caption: Sibenik, Croatia
+    categories: ["travel"]
+  - title: Piltvice Lakes
+    src: "/images/gallery/croatia-lakes.JPG"
+    caption: Plitvice Lakes, Croatia
+    categories: ["featured", "travel"]
+  - title: Ferris Wheel
+    src: "/images/gallery/ferris-wheel.jpg"
+    caption: Ferris Wheel, Rinku Town, Osaka
+    categories: ["travel"]
+  - title: Fuji from a boat
+    src: "/images/gallery/fuji.JPG"
+    caption: Mount Fuji, seen from a boat on Lake Ashi
+    categories: ["featured","travel"]
+  - title: Friends in Latvia
+    src: "/images/gallery/gang-baltic-1.JPG"
+    caption: With friends in a hot Latvia beach
+    categories: ["memories"]
+  - title: Friends in Lithuania
+    src: "/images/gallery/gang-baltic-2.JPG"
+    caption: Underground restaurant in Lithuania
+    categories: ["featured","memories"]
+  - title: GR86
+    src: "/images/gallery/gr86.jpg"
+    caption:  Night GR86
+    categories: ["featured","travel"]
+  - title: Whale shark aquarium
+    src: "/images/gallery/grrr.JPG"
+    caption: Whale shark aquarium, Okinawa
+    categories: ["featured","memories"]
+  - title: Hike in Madeira
+    src: "/images/gallery/hike-wood.JPG"
+    caption: Tough hike in Madeira
+    categories: ["featured","memories"]
+  - title: Late afternoon walk
+    src: "/images/gallery/japan.JPG"
+    caption: Late afternoon walk, Osaka
+    categories: ["travel"]
+  - title: Kart champion
+    src: "/images/gallery/kart-champion.jpeg"
+    caption: All that F1 watching paid off!
+    categories: ["memories"]
+  - title: Snow monkey
+    src: "/images/gallery/monkey.JPG"
+    caption: The most relaxed snow monkey.
+    categories: ["featured","travel"]
+  - title: Night cityscape
+    src: "/images/gallery/night-japan.JPG"
+    caption: Night cityscape, Japan
+    categories: ["featured","travel"]
+  - title: Okinawa beach 1
+    src: "/images/gallery/Okinawa-1.jpg"
+    caption: Beautifull Okinawa beach
+    categories: ["featured","travel"]
+  - title: Okinawa Postcard
+    src: "/images/gallery/okinawa-2.jpg" 
+    caption: My version of an Okinawa postcard
+    categories: ["travel"]
+  - title: Okinawa beach 3
+    src: "/images/gallery/okinawa-3.jpg"
+    caption: Just one more Okinawa beach
+    categories: ["travel"]
+  - title: Oktoberfest
+    src: "/images/gallery/oktober-fest.jpg"
+    caption: Oktoberfest with friends, Munich
+    categories: ["memories"]
+  - title: Osaka Castle
+    src: "/images/gallery/osaka-castle.jpeg"
+    caption: Osaka Castle, Japan
+    categories: ["featured","travel"]
+  - title: Samurai armor
+    src: "/images/gallery/samurai.jpg"
+    caption: Samurai experience, Japan
+    categories: ["memories"]
+  - title: Scuba diving
+    src: "/images/gallery/scuba.jpeg"
+    caption: The best scuba diving I was able to take
+    categories: ["memories"]
+  - title: Sumo wrestlers
+    src: "/images/gallery/sumo.jpg"
+    caption: After the sumo fight! 
+    categories: ["memories", "featured"]

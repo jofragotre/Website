@@ -1,0 +1,63 @@
+{{- $items := site.Data.gallery.items -}}
+{{- if not $items -}}
+<p>Gallery is empty. Add items to data/gallery.yaml.</p>
+{{- else -}}
+
+<section class="gallery-controls">
+  <div class="filters" role="tablist" aria-label="Gallery filters">
+    {{- $cats := slice "featured" "all" "travel" "memories" -}}
+    {{- range $i, $c := $cats -}}
+      <button
+        class="filter-btn{{ if eq $c "featured" }} is-active{{ end }}"
+        data-filter="{{ $c }}"
+        role="tab"
+        aria-selected="{{ if eq $c "featured" }}true{{ else }}false{{ end }}"
+      >
+        {{ title $c }}
+      </button>
+    {{- end -}}
+  </div>
+</section>
+
+<section id="gallery" class="gallery-grid" aria-live="polite">
+  {{- range $i, $it := $items -}}
+    <figure
+      class="card"
+      tabindex="0"
+      data-cats='{{ delimit $it.categories "," }}'
+    >
+      <img src='{{ $it.src | relURL }}' alt='{{ $it.title }}' loading="lazy" />
+      <figcaption>
+        {{- with $it.caption -}}<div class="caption">{{ . }}</div>{{- end -}}
+      </figcaption>
+    </figure>
+  {{- end -}}
+</section>
+
+<script>
+  (function () {
+    const btns = document.querySelectorAll(".filter-btn");
+    const cards = document.querySelectorAll("#gallery .card");
+    function applyFilter(cat) {
+      cards.forEach((el) => {
+        const cats = (el.dataset.cats || "").split(",");
+        const show = cat === "all" ? true : cats.map((s) => s.trim()).includes(cat);
+        el.style.display = show ? "" : "none";
+      });
+    }
+    btns.forEach((b) => {
+      b.addEventListener("click", () => {
+        btns.forEach((x) => {
+          x.classList.remove("is-active");
+          x.setAttribute("aria-selected", "false");
+        });
+        b.classList.add("is-active");
+        b.setAttribute("aria-selected", "true");
+        applyFilter(b.dataset.filter);
+      });
+    });
+    applyFilter("featured");
+  })();
+</script>
+
+{{- end -}}

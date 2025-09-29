@@ -1,7 +1,9 @@
 ---
 title: "About Me"
-showToc: false
+showToc: true
 layout: "wide"
+hideMeta: true
+draft: false
 ---
 
 ## 👋 Hi I'm João! 
@@ -48,24 +50,24 @@ In summary, lots of different things:
 
 - 📺 For entertainment I'm an avid follower of **motorsports**, namely F1 and MotoGP but also  **football** - Sporting fan;
 - ⚽️ On the sports side play **football** and **padel** but with what it feels like two left feet and two hands (I'm right handed).
-- 📸 Lately I've been into **photography** and the results can be seen in the following section!
+- 📸 Lately I've been into **photography** and the results can be seen in the *travel* tag on following section!
 - 📋 Some other interests include cooking, video-gaming, watches and music. 
 
-These are all great forms of entertainment for me however my most favourite thing todo, although I can't call it an hobbie, is to **travel**.
+These are all great forms of entertainment for me however my most favourite thing todo, although I can't call it an hobbie, is to **travel**. 
 
 ---
 
 ### ✈️ Travel Highlights
-Here are a few snapshots from my most recent travels:
+<p style="margin:1rem 0;">
+  Here are a few snapshots from my most recent travels. They are just a teaser. If you’re curious about the person behind the pixels, feel free to reach out. I’m happy to chat! You can <a href="mailto:joao.f.g.tremoco@gmail.com">Email me</a> or find me on
+  <a href="https://www.linkedin.com/in/joao-tremoco/">LinkedIn</a>.
+</p>
 
-"Add japan, baltics, darmstadt, croatia, japan"
+{{< photo-gallery >}}
 
-{{< gallery >}}
-  {{< figure src="/images/travel/swiss-alps.jpg" caption="Hiking in the Swiss Alps" >}}
-  {{< figure src="/images/travel/groningen.jpg" caption="Erasmus in Groningen" >}}
-  {{< figure src="/images/travel/lisbon.jpg" caption="Sunny Lisbon" >}}
-{{< /gallery >}}
+Currently at 21 countries, and counting!
 
+> 🇵🇹 🇪🇸 🇫🇷 🇲🇨 🇮🇹 🇻🇦 🇩🇪 🇳🇱 🇨🇭 🇦🇹 🇨🇿 🇭🇺 🇭🇷 🇬🇷 🇵🇱 🇨🇻 🇯🇵 🇶🇦 🇱🇹 🇱🇻 🇪🇪
 
 ---
 
