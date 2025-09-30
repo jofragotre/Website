@@ -1,5 +1,5 @@
 ---
-title: "CV & References"
+title: "CV and Credentials"
 layout: "page"
 showToc: true
 hideMeta: true
