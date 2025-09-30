@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-toc: true
 layout: "wide"
+showToc: true
 hideMeta: true
 draft: false
 ---
@@ -83,5 +83,12 @@ Thrash metal when the GPU screams:
 Hip‑hop rotation:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/05BqHvCFlAQhHWtCWtuJJ8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### My soccer highlights:
-Just kidding.
+### ⚽️ My soccer highlights:
+
+Oops, no bicycle kicks yet. In the meanwhile:
+
+<div class="hero-links">
+  <a href="projects/">Projects</a>
+  <a href="publications/">Publications</a>
+  <a href="cv/">Credentials</a>
+</div>

@@ -10,7 +10,7 @@ In this page you can find relevant professional documents including my CV, indus
 
 ## 🧾 Curriculum Vitae
 **João Tremoço, MsC**  
-Senior A.I. Researcher/Engineer, Youverse  
+Senior A.I. Researcher - Engineer, Youverse  
 Email: joao.f.g.tremoco@gmail.com
 
 <details>
@@ -75,6 +75,7 @@ Background in **Physics Engineering** provides a strong analytical foundation, c
 ---
 
 ### Publications
+- *Adversarial Attack Challenge for Secure Face Recognition 2025*
 - *QualFace: adapting deep learning face recognition for ID and travel documents with quality assessment*  
 - *Towards understanding the character of quality sampling in deep learning face recognition*  
 - *SYN-MAD 2022: Competition on face morphing attack detection based on private synthetic training data*  
