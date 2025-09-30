@@ -11,6 +11,6 @@
   url = "/publications/"
   weight = 3
 [[main]]
-  name = "Curriculum"
+  name = "CV and Credentials"
   url = "/cv/"
   weight = 4
