@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-showToc: true
+toc: true
 layout: "wide"
 hideMeta: true
 draft: false
@@ -29,7 +29,7 @@ If you want to learn more about my professional side you can find information on
 
 ## Personal side
 
-While I introduce myself as João, all my friend call me by my last name "Tremoço". In Portuguese this means lupine, which is a small legume very common in Portugal to accompany a beer! 
+While I introduce myself as João, all my friends call me by my last name "Tremoço". In Portuguese this means lupine, which is a small legume very common in Portugal to accompany a beer! 
 
 
 <figure style="text-align:center">
@@ -49,9 +49,9 @@ While I introduce myself as João, all my friend call me by my last name "Tremo�
 In summary, lots of different things: 
 
 - 📺 For entertainment I'm an avid follower of **motorsports**, namely F1 and MotoGP but also  **football** - Sporting fan;
-- ⚽️ On the sports side play **football** and **padel** but with what it feels like two left feet and two hands (I'm right handed).
-- 📸 Lately I've been into **photography** and the results can be seen in the *travel* tag on following section!
-- 📋 Some other interests include cooking, video-gaming, watches and music. 
+- ⚽️ On the sports side, I play **football** and **padel** but with what it feels like to have two left feet and two left hands (I'm right handed).
+- 📸 Lately I've been into **photography** and the results can be seen in the *travel* tag on the following section!
+- 📋 Some other interests include cooking, video-gaming, nerding over watches and music. 
 
 These are all great forms of entertainment for me however my most favourite thing todo, although I can't call it an hobbie, is to **travel**. 
 

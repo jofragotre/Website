@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layot: "page"
+layout: "page"
 showToc: true
 hideMeta: true
 draft: false
