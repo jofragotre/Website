@@ -66,7 +66,7 @@ items:
   - title: Night cityscape
     src: "/images/gallery/night-japan.JPG"
     caption: Night cityscape, Japan
-    categories: ["featured","travel"]
+    categories: ["travel"]
   - title: Okinawa beach 1
     src: "/images/gallery/okinawa-1.jpg"
     caption: Beautifull Okinawa beach
@@ -82,7 +82,7 @@ items:
   - title: Oktoberfest
     src: "/images/gallery/oktober-fest.jpg"
     caption: Oktoberfest with friends, Munich
-    categories: ["memories"]
+    categories: ["featured","memories"]
   - title: Osaka Castle
     src: "/images/gallery/osaka-castle.jpeg"
     caption: Osaka Castle, Japan
