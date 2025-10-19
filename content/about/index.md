@@ -88,7 +88,7 @@ Hip‑hop rotation:
 Oops, no bicycle kicks yet. In the meanwhile:
 
 <div class="hero-links">
-  <a href="projects/">Projects</a>
-  <a href="publications/">Publications</a>
-  <a href="cv/">Credentials</a>
+  <a href="/projects/">Projects</a>
+  <a href="/publications/">Publications</a>
+  <a href="/cv/">Credentials</a>
 </div>
