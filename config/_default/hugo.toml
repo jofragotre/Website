@@ -1,0 +1,15 @@
+baseURL = "https://www.joaotremoco.com/"
+title = "Tremoço"
+theme = "congo"
+languageCode = "en"
+defaultContentLanguage = "en"
+relativeURLs = false
+canonifyURLs = true
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true

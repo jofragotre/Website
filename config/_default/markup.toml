@@ -1,0 +1,8 @@
+[tableOfContents]
+  startLevel = 2     # include ## and deeper
+  endLevel = 3       # include up to ### (raise to 6 if you want)
+  ordered = false
+
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true    # you already enabled this; keep it here too

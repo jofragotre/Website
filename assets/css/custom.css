@@ -1,0 +1,164 @@
+.badges { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.25rem 0 0.75rem; }
+.badges > span {
+  font-size: 0.82rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  background: var(--primary-50, rgba(0,0,0,0.06));
+}
+.dark .badges > span { background: rgba(255,255,255,0.08); }
+
+
+.hero-links {
+
+display: flex;
+
+flex-wrap: wrap;
+
+gap: 12px 20px; /* row x column gap */
+
+justify-content: center;
+
+}
+
+
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 0 0 0.75rem;
+}
+.filter-btn {
+  padding: 0.4rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border, rgba(0, 0, 0, 0.15));
+  background: var(--surface, #fff);
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.02s ease;
+}
+.filter-btn.is-active {
+  background: var(--highlight, rgba(0, 0, 0, 0.06));
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+@media (max-width: 900px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 560px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.card {
+  border: 1px solid var(--border, rgba(0, 0, 0, 0.12));
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--surface, #fff);
+}
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+.card figcaption {
+  padding: 0.5rem 0.6rem;
+}
+.gallery-section {
+  margin-top: 1rem;
+}
+.gallery-section > summary {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  border: 1px solid var(--border, rgba(0,0,0,0.15));
+  background: var(--surface, #fff);
+}
+
+/* Accent color */
+:root {
+  --accent: #f97316; /* orange-500 */
+}
+
+/* Buttons (filters + section summaries) */
+.filter-btn,
+.gallery-section > summary {
+  border-color: var(--accent) !important;
+  color: var(--accent);
+  background: transparent;
+}
+
+.filter-btn:hover,
+.gallery-section > summary:hover {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.filter-btn.is-active {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  color: var(--accent);
+}
+
+.dark .filter-btn,
+.dark .gallery-section > summary {
+  border-color: color-mix(in srgb, var(--accent) 70%, black);
+  color: color-mix(in srgb, var(--accent) 90%, white);
+}
+
+.dark .filter-btn.is-active {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+}
+
+/* Card border */
+.card {
+  border-color: var(--accent) !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+/* Hover-reveal caption (overlay) */
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.card figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0.45rem 0.6rem;
+  font-size: 0.82rem; /* smaller */
+  line-height: 1.25;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.55);
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  pointer-events: none;
+}
+
+/* Show on hover and keyboard focus */
+.card:hover figcaption,
+.card:focus-within figcaption {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Mobile/touch: no hover -> keep captions visible but subtle */
+@media (hover: none) {
+  .card figcaption {
+    position: static;
+    color: inherit;
+    background: transparent;
+    opacity: 1;
+    transform: none;
+    padding: 0.4rem 0.6rem;
+  }
+}
+

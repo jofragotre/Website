@@ -1,0 +1,22 @@
+[homepage]
+  layout = "profile" 
+  showRecent = false
+
+[assets]
+  favicon = "favicon.ico"
+
+[article]
+  showTableOfContents = true
+  showDate = false
+  showAuthor = false
+  showReadingTime = false
+  toc = true
+
+[toc]
+  enabled = true
+
+[footer]
+  showAppearanceSwitcher = true
+
+[list]
+  showSummary = true
